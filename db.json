@@ -1,73 +1,26 @@
 {
-    "users": [
-        {
-            "id":1,
-            "title":"hello",
-            "isCompleted":false
-        }, {
-            "id":2,
-            "title":"hello2",
-            "isCompleted":false
-        }
-    ],
-    "accounts": [
-            {
-                "id":1,
-                "name":"anmol",
-                "roll":909
-            },
-            {
-                "id":1,
-                "name":"tanya",
-                "roll":909
-            }
-    ],
-    "transactions": [
-
-    ],
-    "data":[
-        {
-            "id":1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter 3",
-            "author": "J. K. Rowling",
-            "genre": "fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1000,
-            "borrowed": false
-            },{
-                "id":2,
-                "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                "book_name": "Harry Potter 4",
-                "author": "J. K. Rowling",
-                "genre": "fiction",
-                "edition": "2021",
-                "publisher": "Bloomsbury",
-                "cost": 1499,
-                "borrowed": false
-                },{
-                    "id":3,
-                    "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                    "book_name": "Harry Potter 2",
-                    "author": "J. K. Rowling",
-                    "genre": "fiction",
-                    "edition": "2021",
-                    "publisher": "Bloomsbury",
-                    "cost": 1299,
-                    "borrowed": false
-                    },{
-                        "id":4,
-                        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-                        "book_name": "Harry Potter ",
-                        "author": "J. K. Rowling",
-                        "genre": "fiction",
-                        "edition": "2021",
-                        "publisher": "Bloomsbury",
-                        "cost": 1999,
-                        "borrowed": false
-                        }
-]
-    
-
+  "users": [
+    {
+      "id": 1,
+      "title": "hello",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "title": "hello2",
+      "isCompleted": false
+    }
+  ],
+  "hotels": [
+    {
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "2",
+      "capacity": "3",
+      "cost": "4000",
+      "booked": false
+    }
+  ]
 }
